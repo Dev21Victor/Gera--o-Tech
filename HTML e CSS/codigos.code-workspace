@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../codigos"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Geração Tech"
+  }
+}
